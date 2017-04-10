@@ -11,4 +11,4 @@ The transaction information is scraped from the DOM on the order confirmation pa
 * transactionTax (Optional)
 * transactionProducts (Optional)
 
-The tag is triggered once the page (DOM) is fully loaded, with the built-in trigger type "DOM Ready".# Google-Analytics-Ecommerce-Tracking-for-iMIS-RiSE-orders
+The tag is triggered once the page (DOM) is fully loaded, with the built-in trigger type "DOM Ready".
